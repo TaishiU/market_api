@@ -1,0 +1,9 @@
+api/.env
+web/.env
+tools/db-viewer/.env
+
+api/node_modules/
+web/node_modules/
+tools/db-viewer/node_modules/
+mobile/.dart_tool/
+mobile/build/

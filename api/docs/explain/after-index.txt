@@ -1,0 +1,2 @@
+id	select_type	table	partitions	type	possible_keys	key	key_len	ref	rows	filtered	Extra
+1	SIMPLE	products	NULL	ref	category_id,idx_products_status_category_created	idx_products_status_category_created	5	const,const	37908	100.00	Backward index scan
